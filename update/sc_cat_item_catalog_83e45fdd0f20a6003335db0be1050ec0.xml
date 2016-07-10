@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="">8fe45fdd0f20a6003335db0be1050ebe</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>wcw@andrew.cmu.edu</sys_created_by>
+        <sys_created_on>2016-07-10 19:05:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>83e45fdd0f20a6003335db0be1050ec0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.</sys_name>
+        <sys_package display_value="access" source="x_camu_access">cef9035d0f20a6003335db0be1050e9b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="access">cef9035d0f20a6003335db0be1050e9b</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_83e45fdd0f20a6003335db0be1050ec0</sys_update_name>
+        <sys_updated_by>wcw@andrew.cmu.edu</sys_updated_by>
+        <sys_updated_on>2016-07-10 19:05:37</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
